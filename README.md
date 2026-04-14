@@ -38,6 +38,9 @@
 ### Category Breakdown
 ![Category Breakdown](screenshots/Category_breakdown.png)
 
+### Category Breakdown (Pie Chart)
+![Pie Chart](screenshots/pie_chart.png)
+
 ### Highest Spending Category
 ![Highest Spending](screenshots/High_spending.png)
 
