@@ -23,3 +23,23 @@
    python expense_tracker.py
 
 ## Screenshots
+
+### Add Expense
+![Add Expense](screenshots/Add_expense.png)
+
+![Add Expense 2](screenshots/add_expense1.png)
+
+### View Expenses
+![View Expenses](screenshots/View_expenses.png)
+
+### Monthly Summary
+![Monthly Summary](screenshots/Monthly_summary.png)
+
+### Category Breakdown
+![Category Breakdown](screenshots/Category_breakdown.png)
+
+### Highest Spending Category
+![Highest Spending](screenshots/High_spending.png)
+
+### Exit
+![Exit](screenshots/exit.png)
